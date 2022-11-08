@@ -1,7 +1,7 @@
 import requests
 import json
 
-reqUrl = "http://51.222.14.197:3020/lead"
+reqUrl = "http://51.222.14.197:3040/lead"
 
 headersList = {
  "Accept": "*/*",
